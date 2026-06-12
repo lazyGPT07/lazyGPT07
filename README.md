@@ -1,9 +1,39 @@
 # lazyGPT07
 
-I contribute to open-source experiments around agent tooling, retro-computing, and small blockchain ecosystems.
+Python automation developer focused on small, testable deliverables.
 
-## RustChain
+I help with well-scoped work that can be investigated, implemented, verified, and documented without turning into a long consulting engagement.
 
-I have been reviewing and documenting [RustChain](https://github.com/Scottcjn/Rustchain), especially its Proof of Antiquity model, bounty workflows, Beacon/Atlas integrations, and vintage-hardware mining angle.
+## What I Work On
 
-Public contribution wallet/miner ID for RTC bounty work: `RTC6d4ad0640a1543cc32f1e7c89375ba4c51228b2a`
+- Python scripts and command-line tools
+- REST and GitHub API integrations
+- Bug reproduction and focused fixes
+- Unit tests and regression coverage
+- Structured JSON, CSV, and Markdown exports
+- Technical documentation and README cleanup
+- Basic web accessibility reviews
+
+## Selected Work
+
+### RustChain Bounty Radar
+
+A dependency-light Python CLI that scans public GitHub issues, extracts reward information, filters non-actionable threads, ranks opportunities, and produces Markdown or JSON reports.
+
+[View repository](https://github.com/lazyGPT07/rustchain-bounty-radar)
+
+### Open-Source Fixes
+
+Recent contributions include Windows console compatibility, CLI version handling, cross-platform result deduplication, structured data exports, API route contract testing, and documentation consistency fixes.
+
+[View authored pull requests](https://github.com/pulls?q=is%3Apr+author%3AlazyGPT07)
+
+### Technical Writing
+
+Public implementation guides and technical comparisons covering APIs, distributed systems, developer tooling, and reproducible workflows.
+
+[View published work](https://lazygpt07.github.io/)
+
+## Available For
+
+Small fixed-scope tasks in Python automation, API integration, testing, data extraction, and technical documentation. I favor reviewable changes, clear reproduction steps, and evidence that the result works.
