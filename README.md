@@ -26,7 +26,7 @@ A dependency-light Python CLI that scans public GitHub issues, extracts reward i
 
 Recent contributions include Windows console compatibility, CLI version handling, cross-platform result deduplication, structured data exports, API route contract testing, and documentation consistency fixes.
 
-[View authored pull requests](https://github.com/pulls?q=is%3Apr+author%3AlazyGPT07)
+[View authored pull requests](https://github.com/pulls?q=is%3Apr+author%3AlazyGPT07) | [Read a QA bug report sample](https://github.com/lazyGPT07/lazyGPT07/blob/main/portfolio/qa-bug-report-sample.md)
 
 ### Technical Writing
 
